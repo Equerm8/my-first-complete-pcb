@@ -551,7 +551,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "diode555.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
