@@ -551,7 +551,7 @@
       "netlist": "",
       "plot": "../gerbers/",
       "specctra_dsn": "",
-      "step": "diode555.step",
+      "step": "../casing/diode555.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
